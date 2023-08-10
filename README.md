@@ -1,5 +1,5 @@
 ## Intro
-Hey I'm Kanav, a learning student studying Material Science at DTU, Denmark. I'm an avid learner and am interested in material simulations.
+Hey I'm Kanav, a student studying Material Science at DTU, Denmark. I'm an avid learner and am interested in material simulations.
 I have recently been learning Computational Fluid Dynamics and will be quite proficient by the end of the semester.
 
 However, my interests aren't just limited to physics simulations. I'm also very interested in Data Science and game dev.
